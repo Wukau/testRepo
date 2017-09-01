@@ -22,6 +22,7 @@ class Bet():
                 end = input("Czy to ostatni zakład? [Y/N]")
                 end = end.upper()
                 print(end)
+                print("test")
 
             end = True if end == 'Y' else False
 
